@@ -2,6 +2,9 @@
 
 Live Demo: https://performance-dashboard-pro-vrnb.vercel.app
 
+Stress Test: https://performance-dashboard-pro-vrnb.vercel.app/stress
+
+
 ## Features
 - Real-time Line, Bar, Scatter, Heatmap (Canvas)
 - FPS + Frame time + Heap (MB) live stats
@@ -29,3 +32,4 @@ Commit & push:
 git add README.md
 git commit -m "docs: add README with demo link"
 git push
+
